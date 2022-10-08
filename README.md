@@ -1,3 +1,3 @@
 # Analyze-International-Debt-Statistics
 
-Unguided project from Datacamp
+UNGUIDED project from Datacamp
